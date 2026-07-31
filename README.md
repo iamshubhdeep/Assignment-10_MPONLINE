@@ -4,6 +4,14 @@ A machine learning model that predicts whether a patient is at risk of heart
 disease based on clinical parameters, served as a REST API with Flask and
 deployed on Render.
 
+## Details
+
+- Name : Shubhdeep Singh
+- Application No. : IN26011804
+- College Reg. No. : 23BCE11460
+- Batch No. : 1(A)
+- Email Id : shubhdeep.23bce11460@vitbhopal.ac.in
+
 ## Problem Statement
 
 A healthcare organization wants to deploy a machine learning model that
